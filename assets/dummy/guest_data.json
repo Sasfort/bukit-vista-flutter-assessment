@@ -1,0 +1,82 @@
+[
+  {
+    "id": "0",
+    "name": "Jack Reacher",
+    "city": "Jakarta Selatan",
+    "country": "Indonesia",
+    "createdAt": 1664859600000,
+    "email": "acil@gmail.com",
+    "phoneNumber": "081234567890",
+    "picture": "https://st.depositphotos.com/1269204/1219/i/450/depositphotos_12196477-stock-photo-smiling-men-isolated-on-the.jpg"
+  },
+  {
+    "id": "1",
+    "name": "John Doe",
+    "city": "Seoul",
+    "country": "Korea Selatan",
+    "createdAt": 1662354000000,
+    "email": "widy@gmail.com",
+    "phoneNumber": "080987654321",
+    "picture": "https://st.depositphotos.com/1224365/2498/i/450/depositphotos_24980235-stock-photo-portrait-of-a-normal-man.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Jane Stuart",
+    "city": "Bandung",
+    "country": "Indonesia",
+    "createdAt": 1662440400000,
+    "email": "indi@gmail.com",
+    "phoneNumber": "080987612345",
+    "picture": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Ali ibn Ammar",
+    "city": "Mecca",
+    "country": "Saudi Arabia",
+    "createdAt": 1659762000000,
+    "email": "ujang@gmail.com",
+    "phoneNumber": "08098767890",
+    "picture": "https://st.depositphotos.com/1371851/1256/i/600/depositphotos_12560182-stock-photo-handsome-man-with-eyeglasses.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Jack Reacher",
+    "city": "Jakarta Selatan",
+    "country": "Indonesia",
+    "createdAt": 1664859600000,
+    "email": "acil@gmail.com",
+    "phoneNumber": "081234567890",
+    "picture": "https://st.depositphotos.com/1269204/1219/i/450/depositphotos_12196477-stock-photo-smiling-men-isolated-on-the.jpg"
+  },
+  {
+    "id": "5",
+    "name": "John Doe",
+    "city": "Seoul",
+    "country": "Korea Selatan",
+    "createdAt": 1662354000000,
+    "email": "widy@gmail.com",
+    "phoneNumber": "080987654321",
+    "picture": "https://st.depositphotos.com/1224365/2498/i/450/depositphotos_24980235-stock-photo-portrait-of-a-normal-man.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Jane Stuart",
+    "city": "Bandung",
+    "country": "Indonesia",
+    "createdAt": 1662440400000,
+    "email": "indi@gmail.com",
+    "phoneNumber": "080987612345",
+    "picture": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Ali ibn Ammar",
+    "city": "Mecca",
+    "country": "Saudi Arabia",
+    "createdAt": 1659762000000,
+    "email": "ujang@gmail.com",
+    "phoneNumber": "08098767890",
+    "picture": "https://st.depositphotos.com/1371851/1256/i/600/depositphotos_12560182-stock-photo-handsome-man-with-eyeglasses.jpg"
+  }
+]

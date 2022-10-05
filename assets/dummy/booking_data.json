@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ABCD1234",
+    "checkIn": 1664953200000,
+    "checkOut": 1672894800000,
+    "status": 1,
+    "numberOfGuest": 2,
+    "value": 32.0,
+    "phoneNumber": "081212345678",
+    "host": "Acil Bukit Vista",
+    "profileName": "Acil & Nadin",
+    "propertyUnit": "Villa Bukit Berlindo Unit 1",
+    "listingName": "Villa in Bukit | Pool + Wifi + Pool Table"
+  },
+  {
+    "id": "EFGH4567",
+    "checkIn": 1667631600000,
+    "checkOut": 1670216400000,
+    "status": 2,
+    "numberOfGuest": 5,
+    "value": 118.0,
+    "phoneNumber": "081287654321",
+    "host": "Widy Bukit Vista",
+    "profileName": "Widy & Diani",
+    "propertyUnit": "Villa Bukit Harvest Unit 2",
+    "listingName": "Villa in Harvest | Pool + Park"
+  },
+  {
+    "id": "IJKL7890",
+    "checkIn": 1670223600000,
+    "checkOut": 1683262800000,
+    "status": 0,
+    "numberOfGuest": 7,
+    "value": 150.75,
+    "phoneNumber": "081212345876",
+    "host": "Rasyid Bukit Vista",
+    "profileName": "Rasyid & Novi",
+    "propertyUnit": "Villa Gunung Pangilun Unit 5",
+    "listingName": "Villa in Gunung"
+  }
+]

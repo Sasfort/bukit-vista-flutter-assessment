@@ -1,0 +1,26 @@
+name: bukit_vista_flutter_assessment
+description: Project for Bukit Vista assessment of the Flutter Developer position.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.1 <3.0.0'
+
+dependencies:
+  cupertino_icons: ^1.0.5
+  flutter:
+    sdk: flutter
+  google_fonts: ^3.0.1
+  intl: ^0.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  very_good_analysis: ^3.1.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/dummy/
